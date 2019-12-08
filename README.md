@@ -1,5 +1,9 @@
 # Face-Recognition-System-using-Custom-Data
 A Face Recognition System implemented using Convolutional Neural network by using the VGG16 model pretrained by the imagenet weights.
+## Steps to run:
+* "Using camera to create a dataset of images.ipynb" create custom dataset
+* Run "face recognition using vgg16.ipynb" to create the model, After running the model a ben.h5 named model will be saved.
+* Run Face Recognizer.ipynb to recognize the faces that were provided in the dataset.
 ## Methodology
 ### 1. Importing Various Modules
 ### 2. Preparing Data
